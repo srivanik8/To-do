@@ -3,7 +3,7 @@
     padding: 0;
 }
 .container{
-    background: linear-gradient(to right, #FEE8B0, #f5af7d);
+    background: linear-gradient(to right, #F2E94E, #eae129);
     width: 100%;
     min-height: 100vh;
     display: flex;
@@ -11,7 +11,7 @@
     align-items: center;
 }
 .app-wrapper{
-    background-color: #9CA777;
+    background-color: #e95b6e;
     min-width: 450px;
     min-height: 650px;
     padding: 30px;
